@@ -1,0 +1,4 @@
+kz\dar\post\ClientPaymentApplication.class
+kz\dar\post\config\ElasticConfig.class
+kz\dar\post\repository\PaymentRepository.class
+kz\dar\post\repository\PaymentEntity.class
